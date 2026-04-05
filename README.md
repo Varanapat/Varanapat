@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Thiyarat%20Techathummaserd&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Data%20Science%20%C2%B7%20AI%20%C2%B7%20Finance&descSize=15&descAlignY=64&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Thiyarat%20Techathummaserd%20%(thiya)&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Data%20Science%20%C2%B7%20AI%20%C2%B7%20Finance&descSize=15&descAlignY=64&animation=fadeIn" width="100%"/>
 
 [![Gmail](https://img.shields.io/badge/t.techathummaserd@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:t.techathummaserd@gmail.com)
 &nbsp;
