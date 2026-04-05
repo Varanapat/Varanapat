@@ -39,7 +39,6 @@ thiyaa = {
     "location":   "Bangkok, Thailand ",
     "interests":  ["AI Agents", "LLMs", "Quantitative Finance", "Data Engineering"],
     "currently":  "Building cool AI things & exploring markets ",
-    "fun_fact":   "I got into data science because I wanted to understand stocks ",
 }
 ```
 
