@@ -31,7 +31,7 @@ Hey there! I'm a **Data Science & Business Analytics** student from 🇹🇭 Ban
 ## 🌸 About Me
 
 ```python
-thiyarat = {
+thiyaa = {
     "name":       "Thiyarat Techathummaserd",
     "alias":      "Varanapat",
     "university": "KMITL — Data Science & Business Analytics",
