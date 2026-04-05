@@ -143,17 +143,6 @@ A fun web app that picks a random date and shows historically relevant quotes fr
 
 ---
 
-## 🌱 Currently Learning
-
-| Topic | Status |
-|-------|--------|
-| 🧠 **GraphRAG** — Knowledge Graph + RAG systems | `🔥 Active` |
-| 📈 **Quantitative Finance** — data-driven investment analysis | `🔥 Active` |
-| 🤖 **LLM Fine-tuning & Evaluation** | `📖 Exploring` |
-| 📊 **Time Series Analysis** for financial data | `📖 Exploring` |
-
----
-
 ## 🏆 Competitions & Achievements
 
 - 🥇 **Super AI Engineer Season 5** — Selected participant, Track: AI Innovator
