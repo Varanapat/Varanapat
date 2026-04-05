@@ -67,11 +67,13 @@
 
 ---
 
-### 🏅 Competitions
+## 🏆 Competitions & Achievements
 
-- 🔵 **Super AI Engineer Season 5** — Track: AI Innovator *(National AI Engineering Program, Thailand)*
-- 🟣 **Agentic AI for Healthcare Hackathon 2025**
-- 🟢 **Stupid Hackathon 9**
+- 🥇 **Super AI Engineer Season 5** — Selected participant, Track: AI Innovator
+- 🏥 **Agentic AI for Healthcare Hackathon 2025** — Built agent-based patient support system
+- 🎉 **Stupid Hackathon 9** — Shipped a quirky-but-fun date quote web app!
+- 🎓 **GPA: 3.70/4.00** @ KMITL Data Science & Business Analytics
+
 
 ---
 
@@ -100,18 +102,6 @@ RAG / GraphRAG Systems       █████████████░░░░
 Quantitative Finance         ██████████░░░░░░░░░░  Exploring
 Time Series Analysis         ████████░░░░░░░░░░░░  Exploring
 ```
-
----
-
-### 💼 Experience
-
-| Role | Period |
-|------|--------|
-| 🔷 **Vice Head — IT Camp (Data Science)** | Nov 2025 – Present |
-| 🔷 **Teaching Director — Pre-Programming (Python)** | Mar 2025 – Apr 2025 |
-| 🔷 **Teaching Assistant — IT Camp (Data Science)** | Apr 2025 – May 2025 |
-| 🔷 **Recreation Staff — IT Camp** | Jun 2025 – Jul 2025 |
-
 ---
 
 <div align="center">
