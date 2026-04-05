@@ -161,13 +161,6 @@ A fun web app that picks a random date and shows historically relevant quotes fr
 
 ---
 
-## ✨ Fun Facts
-
-- 🐍 I got into data science because I wanted to *understand the stock market* — and ended up loving the whole field
-- 🎯 My goal: build something that sits at the **intersection of AI and finance**
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
