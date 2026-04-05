@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=180&section=header&text=Hi%20there!%20I'm%20Thiyarat%20%F0%9F%8C%B8&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Data%20Science%20%7C%20AI%20Enthusiast%20%7C%20Finance%20Explorer&descSize=16&descAlignY=62&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=180&section=header&text=Thiyarat%20Techathummaserd%20%F0%9F%8C%B8&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Data%20Science%20%7C%20Financial%20Explorer&descSize=16&descAlignY=62&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7B9FFF&center=true&vCenter=true&width=480&lines=Data+Science+%40+KMITL+%F0%9F%8E%93;AI+Agent+Builder+%F0%9F%A4%96;Finance+%2B+Data+%3D+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7B9FFF&center=true&vCenter=true&width=480&lines=Data+Science+%40+KMITL+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,11 +17,11 @@
 
 ---
 
-## 👋 Hello! I'm Thiyarat (Varanapat)
+## Thiyarat (Varanapat)
 
 > *"Data tells stories — I'm here to listen and translate."* ✨
 
-Hey there! I'm a **Data Science & Business Analytics** student from 🇹🇭 Bangkok, Thailand. I love building things that sit at the crossroads of **AI**, **data**, and **real-world problems** — especially anything related to **finance and investing**! When I'm not writing code, I'm probably reading about markets or figuring out why some dataset is misbehaving 😅
+Hey there! I'm a **Data Science & Business Analytics** student from 🇹🇭 Bangkok, Thailand. I love building things that sit at the crossroads of **AI**, **data**, and **real-world problems** — especially anything related to **finance and investing**!
 
 ---
 
@@ -33,18 +33,15 @@ thiyarat = {
     "alias":      "Varanapat",
     "university": "KMITL — Data Science & Business Analytics",
     "gpa":        3.70,
-    "location":   "Bangkok, Thailand 🌆",
+    "location":   "Bangkok, Thailand ",
     "interests":  ["AI Agents", "LLMs", "Quantitative Finance", "Data Engineering"],
-    "currently":  "Building cool AI things & exploring markets 📈",
-    "fun_fact":   "I got into data science because I wanted to understand stocks 😂",
+    "currently":  "Building cool AI things & exploring markets ",
+    "fun_fact":   "I got into data science because I wanted to understand stocks ",
 }
 ```
 
 - 🎓 Studying **B.Sc. Data Science & Business Analytics** @ KMITL
-- 🤖 Passionate about **AI Agents**, **RAG systems**, and **LLMs**
-- 📊 Dreaming of a career at the intersection of **Data × Finance**
-- 🌱 Always learning, always curious — data never sleeps and neither do I ☕
-- 💬 Happy to chat about anything AI, finance, or Python-related!
+
 
 ---
 
@@ -167,10 +164,6 @@ A fun web app that picks a random date and shows historically relevant quotes fr
 ## ✨ Fun Facts
 
 - 🐍 I got into data science because I wanted to *understand the stock market* — and ended up loving the whole field
-- ☕ Coffee + dataset = a productive morning
-- 🤖 I genuinely think AI Agents are going to change *everything*
-- 📚 I enjoy teaching! I've been a TA, Teaching Director, and camp organizer for data science programs
-- 🌙 Best ideas hit after midnight (a blessing and a curse)
 - 🎯 My goal: build something that sits at the **intersection of AI and finance**
 
 ---
