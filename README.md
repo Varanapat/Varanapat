@@ -19,7 +19,7 @@
 
 ## Thiyarat (Varanapat)
 
-> *"Data tells stories — I'm here to listen and translate."* ✨
+> *"Agugugagag - agagagugu"* ✨
 
 Hey there! I'm a **Data Science & Business Analytics** student from 🇹🇭 Bangkok, Thailand. I love building things that sit at the crossroads of **AI**, **data**, and **real-world problems** — especially anything related to **finance and investing**!
 
