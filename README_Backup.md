@@ -10,8 +10,11 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.techathummaserd@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varanapat)
+[![Gmail](https://img.shields.io/badge/t.techathummaserd@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:t.techathummaserd@gmail.com)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Varanapat?style=flat-square&color=7B9FFF&labelColor=0d1117&label=followers)](https://github.com/Varanapat)
+&nbsp;
+![Location](https://img.shields.io/badge/Bangkok%2C%20Thailand-4A90D9?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
