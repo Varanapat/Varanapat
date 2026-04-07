@@ -127,9 +127,9 @@ A fun web app that picks a random date and shows historically relevant quotes fr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Varanapat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9FFF&icon_color=FF6B6B&text_color=c9d1d9&count_private=true" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Varanapat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9FFF&icon_color=FF6B6B&text_color=c9d1d9&count_private=true" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varanapat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9FFF&text_color=c9d1d9&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varanapat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9FFF&text_color=c9d1d9&langs_count=6" /> -->
 
 <br/><br/>
 
