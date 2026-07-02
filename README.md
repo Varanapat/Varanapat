@@ -1,52 +1,49 @@
 <div align="center">
 
-<!-- Animated gradient banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=200&section=header&text=Thiyarat%20Techathummaserd%20(Tiya)%20%F0%9F%92%AB&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Data%20Science%20%C2%B7%20AI%20Agents%20%C2%B7%20Financial%20Systems&descSize=15&descAlignY=62&animation=twinkling" width="100%"/>
+<!-- Animated wave banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=180&section=header&text=Thiyarat%20Techathummaserd%20(Tiya)%20%F0%9F%8C%B8&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Data%20Science%20%7C%20Financial%20Explorer&descSize=16&descAlignY=62&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=B892FF&center=true&vCenter=true&width=560&lines=Data+Science+%40+KMITL+%F0%9F%8E%93;Building+Multi-Agent+AI+Systems+%F0%9F%A4%96;RAG+%2B+LLM+Tinkerer+%F0%9F%94%AE;Super+AI+Engineer+Season+5+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7B9FFF&center=true&vCenter=true&width=480&lines=Data+Science+%40+KMITL+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/t.techathummaserd@gmail.com-B892FF?style=flat-square&logo=gmail&logoColor=white)](mailto:t.techathummaserd@gmail.com)
+[![Gmail](https://img.shields.io/badge/t.techathummaserd@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:t.techathummaserd@gmail.com)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Varanapat?style=flat-square&color=B892FF&labelColor=0d1117&label=followers)](https://github.com/Varanapat)
+[![GitHub followers](https://img.shields.io/github/followers/Varanapat?style=flat-square&color=7B9FFF&labelColor=0d1117&label=followers)](https://github.com/Varanapat)
 &nbsp;
-![Location](https://img.shields.io/badge/Bangkok%2C%20Thailand-6C63FF?style=flat-square&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Bangkok%2C%20Thailand-4A90D9?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
 ---
 
-## 💜 Thiyarat (Tiya)
+## Thiyarat (Tiya)
 
-> *"Curious mind, caffeinated soul, occasionally speaks fluent Python."* ✨
+> *"Agugugagag - agagagugu"* ✨
 
-Hey! I'm a **Data Science & Business Analytics** student from 🇹🇭 Bangkok, Thailand. I like building things where **AI**, **data**, and **real-world problems** meet — especially anything touching **finance, agents, and automation**.
+Hey there! I'm a **Data Science & Business Analytics** student from 🇹🇭 Bangkok, Thailand. I love building things that sit at the crossroads of **AI**, **data**, and **real-world problems** — especially anything related to **finance and investing**!
 
 ---
 
-## 🌷 About Me
+## 🌸 About Me
 
 ```python
-tiya = {
+thiyaa = {
     "name":       "Thiyarat Techathummaserd",
     "alias":      "Varanapat",
     "university": "KMITL — Data Science & Business Analytics",
     "gpa":        3.70,
-    "location":   "Bangkok, Thailand 🇹🇭",
-    "interests":  ["AI Agents", "LLMs", "RAG", "Quantitative Finance", "Data Engineering"],
-    "currently":  "Building multi-agent systems & exploring markets 📈",
+    "location":   "Bangkok, Thailand ",
+    "interests":  ["AI Agents", "LLMs", "Quantitative Finance", "Data Engineering"],
+    "currently":  "Building cool AI things & exploring markets ",
 }
 ```
 
-- 🎓 B.Sc. **Data Science & Business Analytics** @ KMITL (GPA 3.70/4.00)
-- 🤖 Deep into **AI Agents**, **RAG pipelines**, and multi-agent orchestration
-- 🏆 Selected participant — **Super AI Engineer Season 5**
-- 🏥 Competed in **Agentic AI for Healthcare Hackathon 2025**
-- 🎉 Shipped something delightfully weird at **Stupid Hackathon 9**
+- 🎓 Studying **B.Sc. Data Science & Business Analytics** @ KMITL
+
 
 ---
 
@@ -64,8 +61,8 @@ tiya = {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-B892FF?style=for-the-badge&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B9D?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-7B9FFF?style=for-the-badge&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B6B?style=for-the-badge&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -88,16 +85,17 @@ tiya = {
 <tr>
 <td width="50%">
 
-### 🧭 [Welfare-Gap-Finder](https://github.com/Varanapat/Welfare-Gap-Finder)
-AI assistant for social welfare analysis, powered by a multi-agent pipeline + RAG to surface coverage gaps from messy public data.
+### 🤖 Agentic AI for Data Querying
+Talk to your database in plain English — no SQL required!
+Built with **Gemini API** + **AI Agent** architecture to translate natural language into database queries.
 
-`Python` `RAG` `Multi-Agent` `Gemini API`
+`Python` `Gemini API` `AI Agents` `NLP`
 
 </td>
 <td width="50%">
 
-### ☕ [CHINNAKORN_cafe](https://github.com/Varanapat/CHINNAKORN_cafe)
-Full-stack café POS & ordering system — handles orders, inventory, and customer-facing menus in one place.
+### ☕ Café POS & Ordering System
+A full-stack web app for café management — handles orders, inventory, and customer-facing ordering in one place.
 
 `JavaScript` `HTML/CSS` `Node.js` `MySQL`
 
@@ -106,18 +104,18 @@ Full-stack café POS & ordering system — handles orders, inventory, and custom
 <tr>
 <td width="50%">
 
-### 🤖 [AgenticAI](https://github.com/Varanapat/AgenticAI) *(Super AI Eng. S5)*
-Multi-agent Business Intelligence system built on Google's Agent Development Kit — natural language in, insights out.
+### 🏥 AI Healthcare Chatbot *(Super AI Eng. S5)*
+Low-code chatbot built with **n8n** to assist elderly patients — answers health questions and provides warm, friendly conversation.
 
-`Python` `ADK` `Agentic AI` `BI`
+`n8n` `Agentic AI` `Workflow Automation`
 
 </td>
 <td width="50%">
 
-### ⛽ [OIL-SHOCK-HACK](https://github.com/Varanapat/OIL-SHOCK-HACK) *(Earth Day 2026)*
-Team MyLittlePony's entry exploring oil price shocks and their ripple effects, built at the Thailand Earth Day 2026 hackathon.
+### 📅 Date Quote Explorer *(Stupid Hackathon 9)*
+A fun web app that picks a random date and shows historically relevant quotes from that day. Quirky? Yes. Fun? Absolutely 🎉
 
-`Python` `Data Analysis`
+`JavaScript` `HTML/CSS` `REST API`
 
 </td>
 </tr>
@@ -129,17 +127,17 @@ Team MyLittlePony's entry exploring oil price shocks and their ripple effects, b
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Varanapat&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B892FF&icon_color=FF6B9D&text_color=c9d1d9&count_private=true" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Varanapat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9FFF&icon_color=FF6B6B&text_color=c9d1d9&count_private=true" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varanapat&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B892FF&text_color=c9d1d9&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varanapat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9FFF&text_color=c9d1d9&langs_count=6" /> -->
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varanapat&theme=radical&hide_border=true&background=0d1117&stroke=B892FF&ring=FF6B9D&fire=FF6B9D&currStreakLabel=B892FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varanapat&theme=tokyonight&hide_border=true&background=0d1117&stroke=7B9FFF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=7B9FFF" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varanapat&theme=react-dark&hide_border=true&bg_color=0d1117&color=B892FF&line=FF6B9D&point=ffffff&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varanapat&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7B9FFF&line=FF6B6B&point=ffffff&area=true" width="95%"/>
 
 </div>
 
@@ -147,11 +145,10 @@ Team MyLittlePony's entry exploring oil price shocks and their ripple effects, b
 
 ## 🏆 Competitions & Achievements
 
-- 🥇 **Super AI Engineer Season 5** — Selected participant
+- 🥇 **Super AI Engineer Season 5** — Selected participant, Track: AI Innovator
 - 🏥 **Agentic AI for Healthcare Hackathon 2025** — Built agent-based patient support system
-- ⛽ **Thailand Earth Day 2026 Hackathon** — Team MyLittlePony, OIL SHOCK HACK
-- 🎉 **Stupid Hackathon 9** — Shipped a wonderfully quirky project
-- 🎓 **GPA 3.70/4.00** @ KMITL Data Science & Business Analytics
+- 🎉 **Stupid Hackathon 9** — Shipped a quirky-but-fun date quote web app!
+- 🎓 **GPA: 3.70/4.00** @ KMITL Data Science & Business Analytics
 
 ---
 
@@ -159,18 +156,32 @@ Team MyLittlePony's entry exploring oil price shocks and their ripple effects, b
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Email_Me-B892FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.techathummaserd@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.techathummaserd@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varanapat)
-![Profile Views](https://komarev.com/ghpvc/?username=Varanapat&color=B892FF&style=for-the-badge)
 
 <br/>
 
-*Feel free to explore my repos, open an issue, or just say hi!* 👋💜
+*Feel free to explore my repos, open an issue, or just say hi!* 👋💙
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=100&section=footer" width="100%"/>
 </div>
+<!--
+**Varanapat/Varanapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->
